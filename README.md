@@ -1,7 +1,5 @@
 # Xadrez em C – Nível Novato
 
-Este projeto em linguagem C tem como objetivo registrar e exibir os dados de uma peça de xadrez. O exercício segue a lógica sequencial, sem estruturas de controle como `if`, `for`, `while` ou `switch`.
-
 ## Objetivo
 
 - Praticar leitura e exibição de dados com `scanf` e `printf`
